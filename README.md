@@ -1,3 +1,7 @@
+# Full implementation
+The full implementation, based on this base setup, is available at https://github.com/jansorg/pycharm-flake8.
+It's available in the plugin repository at https://plugins.jetbrains.com/plugin/11563-flake8-support.
+
 # PyCharm Webinar 2019
 Welcome to the PyCharm webinar!
 
